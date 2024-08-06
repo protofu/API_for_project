@@ -15,7 +15,7 @@ function KakaoMap() {
                     const container = document.getElementById('map');
                     // 지도 생성 기본 옵션
                     const options = {
-                        center: new window.kakao.maps.LatLng(33.450701, 126.570667), // 위도, 경도
+                        center: new window.kakao.maps.LatLng(37.569697009503514, 126.9842772261843), // 위도, 경도
                         level: 3 // 지도의 확대 레벨
                     };
                     // 지도 생성 및 객체 리턴
